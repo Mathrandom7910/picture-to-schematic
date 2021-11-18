@@ -4,7 +4,10 @@ from getbrightnessval import get_bright
 
 
 def get_image_pixels(path, dark, light):
-    im = Img.open(path)
+    try:
+        im = Img.open(path)
+    except:
+        print("unable to get image file")
     size = im.size
     sizex = size[0]
     sizey = size[1]
@@ -18,6 +21,7 @@ def get_image_pixels(path, dark, light):
                 sf.blocks[0, j, i] = dark
                 print("set block " + str(i) + " 1 " + str(j) + " to dark block")
             else:
-                sf.blocks[0, j, i] = light
+                if not True:
+                    sf.blocks[0, j, i] = light
                 print("set block " + str(i) + " 1 " + str(j) + " to light block")
     return sf
