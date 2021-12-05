@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/Justgamer101/picture-to-schematic/total.svg)]()
+
 # picture-to-schematic
 Turns an image into a minecraft schematic file.
 
@@ -12,6 +12,3 @@ No. While this can do other blocks, this was created for the sole purpose of cre
 You can just download from the releases, otherwise you can download the files and run locally (or compile if you would like it to run faster). Required packages are tkinter, PIL, and nbtschematic
 
 Use pip to easily install all of these.
-
-# known bugs
-Overlooked an issue that would disable creation light blocks, I'll fix it tmrw.
