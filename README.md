@@ -13,6 +13,6 @@ You can just download from the releases, otherwise you can download the files an
 
 Use pip to easily install all of these.
 
-example image built on 5b5t.org
+example image built on <a href="https://5b5t.org">5b5t.org</a>
 
 <img src="https://preview.redd.it/yqnm884a3m081.png?width=1920&format=png&auto=webp&s=996d7e2ae6423006d98922c4ca9360fe3dc9a72e">
