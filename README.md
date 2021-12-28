@@ -12,3 +12,7 @@ No. While this can do other blocks, this was created for the sole purpose of cre
 You can just download from the releases, otherwise you can download the files and run locally (or compile if you would like it to run faster). Required packages are tkinter, PIL, and nbtschematic
 
 Use pip to easily install all of these.
+
+example image built on 5b5t.org
+
+<img src="https://preview.redd.it/yqnm884a3m081.png?width=1920&format=png&auto=webp&s=996d7e2ae6423006d98922c4ca9360fe3dc9a72e">
