@@ -20,7 +20,7 @@ def main(img_path, img_output_path, dbid, lbid):
     schema = get_image_pixels(image_path, dbid, lbid)
     try:
         schema.save(img_output_path)
-    except er:
+    except:
         print("unable to write to path")
     return
 
