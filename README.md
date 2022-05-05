@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/Justgamer101/picture-to-schematic/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/Mathrandom7910/picture-to-schematic/total.svg)]()
 # picture-to-schematic
 Turns an image into a minecraft schematic file.
 
